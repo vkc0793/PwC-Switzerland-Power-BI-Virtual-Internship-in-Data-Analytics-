@@ -30,3 +30,37 @@ We would like to know more about our customers: visualised clearly so that it’
 2) Create a dashboard for the retention manager reflecting the KPIs
 3) Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
 
+![customer churn dashboard](https://github.com/vkc0793/PwC-Switzerland-Power-BI-Virtual-Internship-in-Data-Analytics-/assets/136575552/6d680b8a-3e5c-47d7-9d21-755d637f29ac)
+
+## Task - 3: Diversity and Inclusion
+
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+
+At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
+
+### Here is a hint: Calculating the following measures could help to define proper KPIs:
+
+1) number of men
+2) number of women
+3) number of leavers
+4) % employees promoted (FY21)
+5) % of women promoted
+6) % of hires men
+7) % of hires women
+8) % turnover
+9) Average performance rating: men
+10) Average Performance rating: women
+
+### Diversity & Inclusion: Demographics
+![Demographics](https://github.com/vkc0793/PwC-Switzerland-Power-BI-Virtual-Internship-in-Data-Analytics-/assets/136575552/1279e9f1-270b-4192-9df0-b887f15af423)
+
+### Diversity & Inclusion: Turnover
+![turnover](https://github.com/vkc0793/PwC-Switzerland-Power-BI-Virtual-Internship-in-Data-Analytics-/assets/136575552/b2319329-935b-4ab7-a500-d65a7a399081)
+
+### Diversity & Inclusion: Promotion Rating
+![promotion ratings](https://github.com/vkc0793/PwC-Switzerland-Power-BI-Virtual-Internship-in-Data-Analytics-/assets/136575552/04311461-bf0a-4b8a-a20c-f36e8082f95a)
+
+
+
+
+
